@@ -35,7 +35,7 @@
     "file-image": "file image",
     "firewall": "방화벽",
     "forward": "보너스",
-    "frame": "기본형(혹은, 크기)",
+    "frame": "기본형",
     "gang-image": "gang image",
     "gangs": "무리",
     "gangs-and-crews": "무리와 부하",
@@ -99,5 +99,5 @@
     "vehicles-and-drones": "차량과 드론",
     "weaknesses": "약점",
     "weapons": "무기",
-    "wear": "옷"
+    "wear": "옷"    
 }
